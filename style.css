@@ -1,0 +1,35 @@
+body {
+	background-color: #DCDCDD;
+	margin-bottom: -10;
+}
+
+html {
+	padding-bottom: 0;
+}
+
+.jumbotron {
+	background-image: url("StockSnap_F2DIQQ3LUT.jpg");
+	background-size: cover;
+	color: #0f7864;
+}
+
+.navbar {
+	margin-bottom: 0;
+}
+
+.social {
+	text-align: right;
+	font-size: 34px;
+}
+
+body > .container {
+  padding: 10px 15px 0;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
